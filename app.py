@@ -12,7 +12,6 @@ import pickle
 import numpy as np
 import sklearn
 from sklearn.preprocessing import StandardScaler
-from datetime import date
 
 
 app=Flask(__name__)
@@ -42,7 +41,7 @@ def predict():
             Fuel_Type_Petrol=0
             Fuel_Type_Diesel=1
             
-        Year=date.today().year-Year
+        Year=2020-Year
        # Year=2020-Year
         Seller_Type_Individual=request.form['Seller_Type_Individual']
         if(Seller_Type_Individual=='Individual'):
