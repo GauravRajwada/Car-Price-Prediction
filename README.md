@@ -23,12 +23,12 @@ This project is divided into three part:
 [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) 
 
 ## Team
-[![Gaurav Singh](Image/Profile.jpg](https://gauravrajwada.github.io/Protfolio/) |
+[![Gaurav Singh](Image/Profile.jpg)](https://gauravrajwada.github.io/Protfolio/) |
 -|
 [Gaurav Singh](https://gauravrajwada.github.io/Protfolio/) |)
 
 ## License
-[![Apache license](https://raw.githubusercontent.com/GauravRajwada/car-price-prediction/master/LICENSE)](http://www.apache.org/licenses/LICENSE-2.0e)
+[![Apache license](https://raw.githubusercontent.com/GauravRajwada/car-price-prediction/master/LICENSE)](http://www.apache.org/licenses/LICENSE-2.0e)]
 
 Copyright 2020 Gaurav Singh
 
