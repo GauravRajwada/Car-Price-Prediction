@@ -3,7 +3,7 @@
 ## Test It
 Link: [https://car-price-pred.herokuapp.com/] CAR_PRICE_PREDICTION
 
-[![](https://github.com/GauravRajwada/car-price-prediction/blob/master/Image/car.PNG)](https://car-price-pred.herokuapp.com/)
+[![](https://github.com/GauravRajwada/car-price-prediction/blob/master/Image/car.png)](https://car-price-pred.herokuapp.com/)
 
 ## Overview
 This is a simple car price prediction trained on random forest regressor. Saved model (car_model.pkl) take year, showroom price, km driven, no of owner, fuel type, transmission type and dealer/individual as input and predict output as current price expected. 
