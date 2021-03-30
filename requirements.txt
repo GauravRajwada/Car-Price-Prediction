@@ -27,7 +27,7 @@ pandas==1.0.5
 parso==0.7.0
 pickleshare==0.7.5
 prompt-toolkit==3.0.5
-Pygments==2.6.1
+Pygments==2.7.4
 pyzmq==19.0.1
 regex==2020.6.8
 requests==2.24.0
